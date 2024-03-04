@@ -7,7 +7,7 @@ Outside of uni I've been up-skilling in full stack development, exploring:
 - 🍑 Backend development via servers for RESTful APIs built with Java, Spring Boot, and relational databases 
 - 🕸️ Web development via projects built with both the fundamentals of Javascript/HTML/CSS and libraries like React/Tailwind
 
-I'm currently working on deploying my first iOS app to the app store! You can see my projects on my [portfolio]([linkurl](https://4nhus.github.io/portfolio/)) or have a browse through my repositories. I can be contacted via my [LinkedIn]([linkurl](https://www.linkedin.com/in/anh-nguyen-41870b156/)) 
+I'm currently working on deploying my first iOS app to the app store! You can see my projects on my [portfolio](https://4nhus.github.io/portfolio/) or have a browse through my repositories. I can be contacted via my [LinkedIn](https://www.linkedin.com/in/anh-nguyen-41870b156/).
 
 <!--
 **4nhus/4nhus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
