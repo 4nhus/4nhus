@@ -1,10 +1,13 @@
 ### Greetings 👋
 
-I'm Anh, a final year computer science student. 
+I'm Anh, a 3rd year computer science student who transferred into the degree from medicine 👨‍⚕️➡️👨‍💻. There were several reasons for this, though above all computer science aligned better with my vision for my professional career 🧐. Even after just one year it was very clear to me that I had made the right choice - since transferring I'm grateful 🙏 that I've been able to constantly to cultivate my passion for technology further 🤩.
 
-- 🔭 I’m currently working on writing and deploying my first iOS app to the app store!
-- 🌱 I’m currently learning UIKit so that I can leverage all the powerful APIs that I need for a fully featured app
-- 📫 You can reach out to me via my [LinkedIn]([linkurl](https://www.linkedin.com/in/anh-nguyen-41870b156/))
+Outside of uni I've been up-skilling in full stack development, exploring:
+- 📱 Mobile development via iOS apps built with Swift, SwiftUI, UIKit and other core Apple technologies like MapKit, Core Image
+- 🍑 Backend development via servers for RESTful APIs built with Java, Spring Boot, and relational databases 
+- 🕸️ Web development via projects built with both the fundamentals of Javascript/HTML/CSS and libraries like React/Tailwind
+
+I'm currently working on deploying my first iOS app to the app store! You can see my projects on my [portfolio]([linkurl](https://4nhus.github.io/portfolio/)) or have a browse through my repositories. I can be contacted via my [LinkedIn]([linkurl](https://www.linkedin.com/in/anh-nguyen-41870b156/)) 
 
 <!--
 **4nhus/4nhus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
