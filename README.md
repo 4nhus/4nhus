@@ -1,4 +1,10 @@
-### Hi there 👋
+### Greetings 👋
+
+I'm Anh, a final year computer science student. 
+
+- 🔭 I’m currently working on writing and deploying my first iOS app to the app store!
+- 🌱 I’m currently learning UIKit so that I can leverage all the powerful APIs that I need for a fully featured app
+- 📫 You can reach out to me via my [LinkedIn]([linkurl](https://www.linkedin.com/in/anh-nguyen-41870b156/))
 
 <!--
 **4nhus/4nhus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://raw.githubusercontent.com/4nhus/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/4nhus/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/4nhus/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/4nhus/github-stats/master/generated/languages.svg#gh-light-mode-only)
