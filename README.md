@@ -1,9 +1,9 @@
 ### Greetings 👋
 
-I'm Anh, a 3rd year computer science student who transferred into the degree from medicine 👨‍⚕️➡️👨‍💻. There were several reasons for this, though above all computer science aligned better with my vision for my professional career 🧐. Even after just one year it was very clear to me that I had made the right choice - since transferring I'm grateful 🙏 that I've been able to constantly to cultivate my passion for technology further 🤩.
+I'm Anh, a software engineer who pivoted from medicine to pursue my passion for technology 👨‍⚕️➡️👨‍💻. There were several reasons for this, though above all computer science aligned better with my vision for my professional career 🧐. Even after just one year it was very clear to me that I had made the right choice - since transferring I'm grateful 🙏 that I've been able to constantly to cultivate my passion for technology further 🤩.
 
-Outside of uni I've been up-skilling in full stack development, exploring:
-- 📱 Mobile development via iOS apps built with Swift, SwiftUI, UIKit and other core Apple technologies like MapKit, Core Image
+Outside of full-time work and uni I've been up-skilling in full stack development, exploring:
+- 📱 Mobile development via iOS apps built with Swift, SwiftUI, UIKit and other core Apple technologies like CoreData, CoreMotion, CoreImage, MapKit, and AVFoundation.
 - 🍑 Backend development via servers for RESTful APIs built with Java, Spring Boot, and relational databases 
 - 🕸️ Web development via projects built with both the fundamentals of Javascript/HTML/CSS and libraries like React/Tailwind
 
